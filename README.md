@@ -24,6 +24,12 @@ A wearable-monitoring system with a Spring Boot REST/WebSocket API, an Angular d
 
 [Backend](https://github.com/vingirc/dashboard-biometrico-backend) · [Dashboard](https://github.com/vingirc/dashboard-biometrico-frontend) · [Wear OS](https://github.com/vingirc/dashboard-biometrico-wearable)
 
+### Lettucecurity — Agricultural Monitoring
+
+A crop-monitoring system with a NestJS API and React dashboard for plots, sensors, IoT controls, and prediction features.
+
+[Backend](https://github.com/vingirc/lettucecurity_backend) · [Dashboard](https://github.com/vingirc/CornHub_frontend)
+
 ### ExoAI — NASA Space Apps Challenge 2025
 
 An exoplanet-discovery project combining machine learning, open astronomy data, educational content, and an AI chatbot. The team reached the semifinal round (6th place).
